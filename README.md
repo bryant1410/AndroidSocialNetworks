@@ -123,7 +123,7 @@ Library is still in development, so for now it's only available in staging repo.
 - [signpost-core](https://code.google.com/p/oauth-signpost/)
 - [signpost-commonshttp4](https://code.google.com/p/oauth-signpost/)
 
-##Developed By
+## Developed By
 
   Anton Krasov - <anton.krasov@gmail.com>
 
